@@ -89,7 +89,3 @@ At least one of `email` or `phone` is required. Dates must use `YYYY-MM-DD`.
 - A request with no update fields returns HTTP `400`.
 - This is a learning project, not a production-ready system with authentication, authorization, backups, or deployment hardening.
 
-## GitHub submission
-
-Commit `main.py`, `requirements.txt`, `README.md`, and `.gitignore`.
-Do not commit real student personal information or secrets. The database file is ignored by Git.
