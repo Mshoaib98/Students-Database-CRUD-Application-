@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+students.db
+.env
+.vscode/
+.idea/

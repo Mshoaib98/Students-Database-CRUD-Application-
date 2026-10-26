@@ -1,0 +1,22 @@
+[
+  {
+    "method": "POST",
+    "path": "/students",
+    "body": {
+      "name": "Ayesha Khan",
+      "date_of_birth": "2005-04-12",
+      "email": "ayesha@example.com",
+      "phone": "9876543210",
+      "course": "BTech AIML",
+      "address": "New Delhi",
+      "enrollment_date": "2026-08-01"
+    }
+  },
+  {
+    "method": "PATCH",
+    "path": "/students/1",
+    "body": {
+      "course": "Computer Science"
+    }
+  }
+]
